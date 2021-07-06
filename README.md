@@ -3,7 +3,7 @@ Display your Prestashop sales data in real time on a Smiirl Counter, without wri
 
 # Install
 (1) Download the module files here: [https://github.com/smiirl/prestashop-module](https://github.com/smiirl/prestashop-module)
-![get the module zip](doc/getZip.png?raw=true width=100)
+![get the module zip](doc/getZip.png?raw=true)
 
 (2) Add the module in your Prestashop back office 
 ![add a module ](doc/addModule.png?raw=true)
