@@ -26,13 +26,13 @@ In the modules admin panel: choose the Smiirl module
 # Configure counter
 
 - Log in [https://my.smiirl.com/](https://my.smiirl.com/) and go to the `Setting` of your counter
-- Change the url by the one from step (5) and save
+- Paste the url you copied from step (5) above and save
 ![set url](doc/setUrl.png?raw=true)
 
-- Optionnaly change the kpi you want to display and save again
+- You can optionnaly change the KPI you want to display and save again
 ![set attribute](doc/setAttribute.png?raw=true)
 
 
 # Enjoy
-Wait a few moments and enjoy the sound of the turning flaps. 
+Wait a few moments and enjoy the sound of rolling flaps. Every time you hear them, money is coming in 🤑
 
