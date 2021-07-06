@@ -8,7 +8,7 @@ Display your Prestashop sales data in real time on a Smiirl Counter, without wri
 (2) Add the module in your Prestashop back office 
 ![add a module ](doc/addModule.png?raw=true)
 
-(3) add the zip from step (1).
+(3) Add the zip downloaded from step #1.
 ![add a module zip](doc/addModuleZip.png?raw=true)
 
 # Configure module
