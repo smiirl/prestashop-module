@@ -1,5 +1,5 @@
 # Smiirl Prestashop Module
-Display your sales data in real time on a Smiirl Counter, without writing a single line of code.
+Display your Prestashop sales data in real time on a Smiirl Counter, without writing a single line of code.
 
 # Install
 (1) Get the module: [https://github.com/smiirl/prestashop-module](https://github.com/smiirl/prestashop-module)
