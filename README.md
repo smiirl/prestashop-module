@@ -12,13 +12,13 @@ Display your Prestashop sales data in real time on a Smiirl Counter, without wri
 ![add a module zip](doc/addModuleZip.png?raw=true)
 
 # Configure module
-In the admin panel of the module
+In the modules admin panel: choose the Smiirl module
 ![find config module](doc/configModule.png?raw=true)
 
-(4) Choose the time granularity (day, week, month, year)
+(4) Pick the time granularity you want to display: day, week, month or year
 ![setting module config](doc/configModuleField.png?raw=true)
 
-(5) copy the Url given as `Source URL:`
+(5) Copy the URL displayed in the field `Source URL:`
 
 ![get url](doc/getSourceUrl.png?raw=true)
 
